@@ -7,14 +7,19 @@ JsonGA is a soon-powerful library that processes images to the glorious [JSON-G]
 - Object-oriented.
 - Uses JSON-G.
 - Utilizes no native libraries.
+- Lightweight?
+- Can be used as a canvas for JSON-G drawing.
 - Probably never gonna get used.
-- Lightweight
 
 ## Installation
+
 ##### Node.js v10, or above is required for this module.
 `npm install jsonga`
+###### Development/Alpha
+`npm install momijiln/jsonga`
 
 ## Examples
+
 ##### Read JSON-G File
 ```js
 const JsonGA = require("jsonga");
