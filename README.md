@@ -1,4 +1,5 @@
 # JsonGA [![npm](https://img.shields.io/npm/v/jsonga.svg)](https://www.npmjs.com/package/jsonga) [![npmDL](https://img.shields.io/npm/dt/jsonga.svg?maxAge=3600)](https://www.npmjs.com/package/jsonga)
+##### Named after Jenga, because this codebase is a mess; alongside where the format even comes from
 
 JsonGA is a soon-powerful library that processes images to the glorious [JSON-G](https://github.com/Roadcrosser/JSON-G) image format, and converts that format back into an image.
 
