@@ -1,0 +1,452 @@
+{
+    "version": "1.0",
+    "comment": "L3Jvb3QvSmVuZ2EvdGVzdC9kZW1vLmpzb25nYQ==",
+    "size": {
+        "width": 5,
+        "height": 5
+    },
+    "layers": [
+        {
+            "pixels": [
+                {
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 1,
+                        "y": 0
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 2,
+                        "y": 0
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 3,
+                        "y": 0
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 4,
+                        "y": 0
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 5,
+                        "y": 0
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 0,
+                        "y": 1
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 2,
+                        "y": 1
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 3,
+                        "y": 1
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 4,
+                        "y": 1
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 5,
+                        "y": 1
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 0,
+                        "y": 2
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 1,
+                        "y": 2
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 2,
+                        "y": 2
+                    },
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 3,
+                        "y": 2
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 4,
+                        "y": 2
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 5,
+                        "y": 2
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 0,
+                        "y": 3
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 1,
+                        "y": 3
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 2,
+                        "y": 3
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 3,
+                        "y": 3
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 4,
+                        "y": 3
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 5,
+                        "y": 3
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 0,
+                        "y": 4
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 1,
+                        "y": 4
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 2,
+                        "y": 4
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 3,
+                        "y": 4
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 4,
+                        "y": 4
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 5,
+                        "y": 4
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 0,
+                        "y": 5
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 1,
+                        "y": 5
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 2,
+                        "y": 5
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 3,
+                        "y": 5
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 4,
+                        "y": 5
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                },
+                {
+                    "position": {
+                        "x": 5,
+                        "y": 5
+                    },
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 255
+                    }
+                }
+            ],
+            "default_color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 255
+            }
+        }
+    ]
+}

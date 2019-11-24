@@ -1,6 +1,6 @@
 const JsonGA = require(__dirname + "/../lib/JsonGA.js");
-const picture = new JsonGA.Picture(__dirname + "/demo.jsong");
+const picture = new JsonGA.Picture(__dirname + "/demo.png");
 
-picture.draw().then((pic) => {
-    pic.save(__dirname + "/demo_draw.png")
+picture.format().then((pic) => {
+    pic.save(__dirname + "/demo.jsonga");
 })
