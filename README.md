@@ -16,7 +16,7 @@ JsonGA is a soon-powerful library that processes images to the glorious [JSON-G]
 ##### Node.js v10, or above is required for this module.
 `npm install jsonga`
 ###### Development/Alpha
-`npm install momijiln/jsonga`
+`npm install momijiln/jsonga#dev`
 
 ## Examples
 
