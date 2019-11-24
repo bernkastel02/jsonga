@@ -1,0 +1,4 @@
+# Ignore for Git
+node_modules
+.git
+.vscode

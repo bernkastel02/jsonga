@@ -1,0 +1,28 @@
+{
+  "name": "jsonga",
+  "version": "1.0.0",
+  "description": "A JSON-G Library built to utilize the format to create bad shit, and maybe draw.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momijiln/jsonga.git"
+  },
+  "keywords": [
+    "json-g",
+    "json",
+    "images"
+  ],
+  "author": "Momiji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/momijiln/jsonga/issues"
+  },
+  "homepage": "https://github.com/momijiln/jsonga#readme",
+  "dependencies": {
+    "jimp": "^0.8.5",
+    "pureimage": "^0.1.6"
+  }
+}

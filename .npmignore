@@ -1,0 +1,8 @@
+# Ignore for NPM
+node_modules
+.git
+.vscode
+.gitattributes
+.gitignore
+.travis.yml
+test/
