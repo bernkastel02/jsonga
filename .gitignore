@@ -2,3 +2,6 @@
 node_modules
 .git
 .vscode
+
+# This thing is big.
+test/saxophone.jsong
