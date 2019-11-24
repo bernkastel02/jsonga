@@ -1,4 +1,4 @@
-# JsonGA [![npm](https://img.shields.io/npm/v/momijiln/jsonga.svg)](https://www.npmjs.com/package/jsonga) [![https://img.shields.io/npm/dt/jsonga.svg?maxAge=3600)](https://www.npmjs.com/package/jsonga)
+# JsonGA [![npm](https://img.shields.io/npm/v/momijiln/jsonga.svg)](https://www.npmjs.com/package/jsonga)] [![https://img.shields.io/npm/dt/jsonga.svg?maxAge=3600)](https://www.npmjs.com/package/jsonga)]
 
 JsonGA is a soon-powerful library that processes images to the glorious [JSON-G](https://github.com/Roadcrosser/JSON-G) image format, and converts that format back into an image.
 
